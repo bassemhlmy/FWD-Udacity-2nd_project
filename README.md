@@ -22,8 +22,6 @@ The dataset used in this project includes information about patients' appointmen
 ## Technologies Used
 - **Python**: For data processing and analysis.
 - **Pandas**: Data manipulation and transformation.
-- **Matplotlib & Seaborn**: For data visualization.
-- **Scikit-learn**: Machine learning models for prediction.
 - **Jupyter Notebook**: Development environment for analysis.
 
 ## Key Findings
@@ -40,3 +38,6 @@ The dataset used in this project includes information about patients' appointmen
 - Improve model accuracy by tuning hyperparameters.
 - Consider additional features to enhance predictions.
 - Deploy the model in a web-based tool for healthcare providers.
+
+## License
+This project is licensed under the MIT License.
