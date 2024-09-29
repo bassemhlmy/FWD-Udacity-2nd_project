@@ -40,6 +40,3 @@ The dataset used in this project includes information about patients' appointmen
 - Improve model accuracy by tuning hyperparameters.
 - Consider additional features to enhance predictions.
 - Deploy the model in a web-based tool for healthcare providers.
-
-## License
-This project is licensed under the MIT License.
